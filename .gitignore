@@ -1,0 +1,10 @@
+# .NET build output
+bin/
+obj/
+TestResults/
+
+# User/local files
+*.user
+*.suo
+.vs/
+.vscode/

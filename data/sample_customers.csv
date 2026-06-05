@@ -1,0 +1,5 @@
+id,name,email,signup_date,notes
+1,Ada Lovelace,ada@example.com,2026-01-15,"First customer, prefers email"
+2,Grace Hopper,grace@example.com,2026-02-20,"Uses quoted ""notes"" in CSV"
+3,Katherine Johnson,katherine@example.com,2026-03-05,"Has a multiline
+note value"
